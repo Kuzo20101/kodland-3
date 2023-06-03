@@ -16,4 +16,4 @@ async def karbonayakizi(ctx):
     await ctx.send(atik())
 
 
-bot.run('MTEwNjg3MzMyOTc5NDY3ODc5NA.G6DQhj.b_M0O0W0wLUFlrXd5fgjJLQW9BrhyIraB9DbRc')
+bot.run('TOKEN')
